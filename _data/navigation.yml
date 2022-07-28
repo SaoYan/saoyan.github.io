@@ -1,0 +1,18 @@
+# main links links
+main:
+  - title: "CV"
+    url: /cv/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Talks"
+    url: /talks/
+
+  - title: "Blogs"
+    url: /blogs/
+  - title: "Life"
+    url: /life/
