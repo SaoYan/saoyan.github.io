@@ -17,7 +17,7 @@ redirect_from:
 
 ## Coding
 
-<figure><embed src="https://wakatime.com/share/@saoyan/0d9d0f91-8f70-4ae3-8749-c84fbb79f065.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@saoyan/aa20caea-daa0-4689-9196-8d1cb41abf6a.svg"></embed></figure>
 
 ## Visitors
 
