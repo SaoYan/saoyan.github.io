@@ -15,7 +15,7 @@ redirect_from:
 
 <img src="/images/about.jpeg" alt="about me"/>
 
-## Coding
+## Coding Activity
 
 <figure><embed src="https://wakatime.com/share/@saoyan/aa20caea-daa0-4689-9196-8d1cb41abf6a.svg"></figure>
 
