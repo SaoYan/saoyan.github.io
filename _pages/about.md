@@ -15,10 +15,18 @@ redirect_from:
 
 <img src="/images/about.jpeg" alt="about me"/>
 
-## Coding Activity
+Aha! You found me! 👋  
+
+🏙 Greate Vancouver  
+
+🎓 M.Sc Simon Fraser University  
+
+💻 SDE Apple Media Product  
+
+ Apple fan.. I mean, BIG FAN  
+
+📷 Sony A7III, 16-35GM, 24-105G, 24GM, Zeiss 55mm  
+
+🌈 Pronouns: He/His/Him   
 
 <figure><embed src="https://wakatime.com/share/@saoyan/aa20caea-daa0-4689-9196-8d1cb41abf6a.svg"></figure>
-
-## Visitors
-
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/4.js?i=5ju0mq2abj3&amp;m=0&amp;h=256&amp;c=ff0000&amp;r=0" async="async"></script>
