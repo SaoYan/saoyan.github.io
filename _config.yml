@@ -177,7 +177,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  life:
+  photography:
     output: true
     permalink: /:collection/:path/
 
@@ -219,10 +219,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _life
+  # _photography
   - scope:
       path: ""
-      type: life
+      type: photography
     values:
       layout: single
       author_profile: false
