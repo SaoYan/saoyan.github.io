@@ -27,6 +27,6 @@ Aha! You found me! 👋
 
 📷 Sony A7III, 16-35GM, 24-105G, 24GM, Zeiss 55mm  
 
-🌈 Pronouns: He/His/Him   
+🌈 Pronouns: He/His/Him  
 
-<figure><embed src="https://wakatime.com/share/@saoyan/aa20caea-daa0-4689-9196-8d1cb41abf6a.svg"></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@saoyan/41f919c5-88cf-4eec-b6ba-3587b71bbd1a.png" /></a>
