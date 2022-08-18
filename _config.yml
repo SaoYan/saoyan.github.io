@@ -225,7 +225,7 @@ defaults:
       type: photography
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       share: false
       comment: false
   # _talks
