@@ -10,10 +10,12 @@ redirect_from:
 
 # Aha! You found me! 👋
 
+<br>
 <div style="display: flex; flex-direction: column; align-items: flex-start; justify-content: left;">
   <div name="airvisual_widget" key="jcEphPxP5Kcfr54hv"></div>
   <script type="text/javascript" src="https://www.airvisual.com/scripts/widget_v2.0.js"></script>
 </div>
+<br>
 
 <p>
   <img src="https://img.shields.io/badge/%20-Simon%20Fraser%20University-red" />
