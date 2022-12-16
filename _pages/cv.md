@@ -10,14 +10,14 @@ redirect_from:
 
 {% include base_path %}
 
-[Official CV (PDF)](https://saoyan.github.io/files/CV.pdf)
+[<u>Official CV (PDF)</u>](https://saoyan.github.io/files/CV.pdf)
 
 Education
 ======
 * M.Sc in Computer Science, Simon  Fraser University, Sep. 2018 - May 2020  
-  * [ <u>Thesis: Attention-based Skin Lesion Recognition</u>](/files/Master-Thesis.pdf)  
+  * [<u>Thesis: Attention-based Skin Lesion Recognition</u>](/files/Master-Thesis.pdf)  
 * B.Eng in Communication Engineering, Northwestern Polytechnical University, Sep. 2014 - July 2018  
-  * [ <u>Thesis: A multi-scale CNN for single image spectral super-resolution</u>](/files/Bachelor-Thesis.pdf)  
+  * [<u>Thesis: A multi-scale CNN for single image spectral super-resolution</u>](/files/Bachelor-Thesis.pdf)  
 
 Work Experiences
 ======
