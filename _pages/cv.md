@@ -10,6 +10,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Official CV (PDF)](https://saoyan.github.io/files/CV.pdf)
+
 Education
 ======
 * M.Sc in Computer Science, Simon  Fraser University, Sep. 2018 - May 2020  
