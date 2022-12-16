@@ -43,7 +43,9 @@ redirect_from:
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </p>
 
-<a href="https://www.exophase.com/user/iPlayPS/"><img src="https://card.exophase.com/2/0/179874.png?1670624245"></a>
+<a href="https://www.exophase.com/user/iPlayPS/">
+  <img style="height: 100%; width: 100%; object-fit: contain" src="https://card.exophase.com/2/0/179874.png?1670624245">
+</a>
 
 <img src="/images/about.jpeg" alt="about me"/>
 
