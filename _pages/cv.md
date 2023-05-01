@@ -107,7 +107,7 @@ Talks
   {% endfor %}
 </ul>
 
-Certifications
+<!-- Certifications
 ======
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="51234edf-c5ed-4d9c-b1e5-11906f019f75" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="51234edf-c5ed-4d9c-b1e5-11906f019f75" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script> -->
