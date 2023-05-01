@@ -7,7 +7,7 @@ author_profile: true
 
 ## [Google Scholar](https://scholar.google.com/citations?user=RjhO748AAAAJ&hl=en)  
 
-## Firt author papers:  
+## First author papers:  
 
 <b>[Melanoma Recognition via Visual Attention](https://saoyan.github.io/publications/IPMI2019)</b> <br>
 <b>Yiqi Yan</b>, Jeremy Kawahara, and Ghassan Hamarneh.
