@@ -5,7 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-## [Google Scholar](https://scholar.google.com/citations?user=RjhO748AAAAJ&hl=en)  
+[Google Scholar](https://scholar.google.com/citations?user=RjhO748AAAAJ&hl=en)  
+<br>
 
 First author papers  
 ======
@@ -14,7 +15,7 @@ First author papers
 <b>Yiqi Yan</b>, Jeremy Kawahara, and Ghassan Hamarneh.
 In <i>International Conference on Information Processing in Medical Imaging (IPMI), 2019.</i>  
 
-[<b><u>Accurate Spectral Super-resolution from Single RGB Image Using Multi-scale CNN<b><u>](https://saoyan.github.io/publications/PRCV2018) <br>
+[<b><u>Accurate Spectral Super-resolution from Single RGB Image Using Multi-scale CNN</b></u>](https://saoyan.github.io/publications/PRCV2018) <br>
 <b>Yiqi Yan</b>, Lei Zhang, Jun Li, Wei Wei, and Yanning Zhang.
 In <i>Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2018.</i>  
 
