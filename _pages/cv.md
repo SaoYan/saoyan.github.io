@@ -28,21 +28,22 @@ Professional Experiences
 ======
 * July 29, 2019 - Oct. 18, 2019: Software Development Engineer Intern
   * Prime Video Cross-platform Player, Amazon.com, Inc., Seattle
-  * Project: [<u>Streaming Segment Parser</u>](https://saoyan.github.io/posts/2019/10/14)
+  * Project: [<u>Streaming Segment Parser</u>](https://saoyan.github.io/projects/2019-10-14-streaming-segment-parser)
 
 * Sep. 2018 - April 2020: Research Assistant  
   * School of Computing Science, Simon Fraser University  
-  * Supervisor: [ <u>Professor Ghassan Hamarneh</u> ](https://sites.google.com/view/hamarneh-research/ghassans-bio). [ <u>Medical Image Analysis Lab</u> ](https://sites.google.com/view/hamarneh-research/home)  
+  * Supervisor: [ <u>Professor Ghassan Hamarneh</u> ](https://www.medicalimageanalysis.com/ghassans-bio). [ <u>Medical Image Analysis Lab</u> ](https://www.medicalimageanalysis.com)  
+  * Project: [<u>Melanoma Recognition via Visual Attention</u>](https://saoyan.github.io/projects/2019-03-07-attention-skin-lesion)
 
 * Oct. 2017 - May 2018: Research Assistant  
   * Northwestern Polytechnical University, Xi'an, Shaanxi, China
   * Supervisor: Professor Wei Wei
-  * Project: [<u>Spectral reconstruction from single RGB image</u>](https://saoyan.github.io/posts/2018/06/09)
+  * Project: [<u>Spectral reconstruction from single RGB image</u>](https://saoyan.github.io/projects/2018-06-09-super-spectral)
 
 * July 2017 - Sep. 2017: Research Intern
   * University of Alberta, Edmonton, AB, Canada
   * Supervisor: [ <u>Professor Irene Cheng</u> ](https://webdocs.cs.ualberta.ca/~lin/). [ <u>Multimedia Research Center</u> ](http://crome.cs.ualberta.ca/mrc/index.php)
-  * Project: [<u>Vehicle Counting in Surveillance Videos</u>](https://saoyan.github.io/posts/2017/11/20)
+  * Project: [<u>Vehicle Counting in Surveillance Videos</u>](https://saoyan.github.io/projects/2017-11-20-uofa-mitacs)
 
 Publications
 ======

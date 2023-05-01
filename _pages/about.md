@@ -10,6 +10,7 @@ redirect_from:
 
 # Aha! You found me! 👋
 
+<br>
 I'm a software engineer at Apple Media Product. If you watch contents in TV app on your Apple devices, I'm probably behind them 🤪.  
 
 Off work. I play PS games, travel and do photography.  

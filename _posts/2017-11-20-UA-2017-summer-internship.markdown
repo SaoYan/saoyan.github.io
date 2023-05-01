@@ -2,7 +2,7 @@
 title: "2017 Mitacs Internship at Unversity of Alberta"
 date: 2017-11-20
 author: yiqi
-permalink: /projects/201-11-20-uofa-mitacs
+permalink: /projects/2017-11-20-uofa-mitacs
 collection: projects
 tag:
 - Deep Learning
