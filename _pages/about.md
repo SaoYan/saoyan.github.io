@@ -10,12 +10,9 @@ redirect_from:
 
 # Aha! You found me! 👋
 
-<br>
-<div style="display: flex; flex-direction: column; align-items: flex-start; justify-content: left;">
-  <div name="airvisual_widget" key="jcEphPxP5Kcfr54hv"></div>
-  <script type="text/javascript" src="https://www.airvisual.com/scripts/widget_v2.0.js"></script>
-</div>
-<br>
+I'm a software engineer at Apple Media Product. If you watch contents in TV app on your Apple devices, I'm probably behind them 🤪.  
+
+Off work. I play PS games, travel and do photography.  
 
 <p>
   <img src="https://img.shields.io/badge/%20-Simon%20Fraser%20University-red" />
@@ -37,17 +34,10 @@ redirect_from:
   <img src="https://img.shields.io/badge/📷-55mm%20f%2F1.8-informational" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Apple%20TV-000000?style=for-the-badge&logo=Apple%20TV&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=netflix&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" />
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</p>
-
 <a href="https://www.exophase.com/user/iPlayPS/">
   <img style="height: 100%; width: 100%; object-fit: contain" src="https://card.exophase.com/2/0/179874.png?1670624245">
 </a>
 
-<img src="/images/about.jpeg" alt="about me"/>
+<!-- <img src="/images/about.jpeg" alt="about me"/> -->
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@saoyan/41f919c5-88cf-4eec-b6ba-3587b71bbd1a.png" /></a>
