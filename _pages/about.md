@@ -10,8 +10,17 @@ redirect_from:
 
 # Aha! You found me! 👋
 
+---
+## News
+
+I recently joined an early stage startup [CodeMaker AI](https://codemaker.ai). Check our recent releases:  
+
+- [Github Action](https://github.com/marketplace/actions/codemaker-action) allows you to integrate code generation directly into Github's CI/CD workflow.
+
+---
+
 <br>
-I'm a software engineer at Apple Media Product. If you watch contents in TV app on your Apple devices, I'm probably behind them 🤪.  
+I'm a software engineer at Apple Media Product. If you stream contents in TV app on your Apple devices, I'm probably behind them 🤪.  
 
 Off work. I play PS games, travel and do photography.  
 
