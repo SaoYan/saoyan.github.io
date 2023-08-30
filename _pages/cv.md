@@ -21,7 +21,7 @@ Education
 
 Work Experiences
 ======
-* May 2022 - Present: Software Development Engineer, Apple Media Product
+* May 2022 - Present: Software Development Engineer, Apple Media Product (Video)
 * Aug 2020 - April 2022: Software Development Engineer, AWS Kinesis Data Streams
 
 Professional Experiences
@@ -53,7 +53,7 @@ Publications
 
 * Zahra Mirikharaji, <b>Yiqi Yan</b>, Ghassan Hamarneh, "Learning to Segment Skin Lesions from Noisy Annotations". In <i>Medical Image Computing and Computer-Assisted Intervention Workshop on Medical Image Learning with Less Labels and Imperfect Data (MACCAI-MIL3ID)</i>, 2019.
 
-Codes
+Personal Codes
 ======
 ![Yiqi's github stats](https://github-readme-stats.vercel.app/api?username=SaoYan&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true&custom_title=Ta-da%21)  
 
@@ -95,6 +95,24 @@ Codes
     </th>
     <th class="tg-0lax">
       <img src="https://github-readme-stats-saoyan.vercel.app/api/pin/?username=SaoYan&repo=OpenCV_SimpleDemos&theme=github_dark&show_owner=true" alt="OpenCV_SimpleDemos">
+    </th>
+  </tr>
+</tbody>
+</table>
+
+Contributed Open Source
+======
+<style type="text/css">
+.tg  {border:none;border-collapse:collapse;border-spacing:0;}
+.tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <th class="tg-0lax">
+      <img src="https://github-readme-stats-saoyan.vercel.app/api/pin/?username=codemakerai&repo=codemaker-action&theme=github_dark&show_owner=true" alt="codemaker-action">
     </th>
   </tr>
 </tbody>
