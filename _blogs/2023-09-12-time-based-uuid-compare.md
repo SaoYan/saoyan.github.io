@@ -53,7 +53,7 @@ public class UUIDUtil {
 
 The good news is, Cassandra implements the right way to compare UUID. Say you have a schema where some field is a time based UUID, you can safely use it for ordering so that the data is order by some timestamp you defined.  
 
-```cql
+```sql
 CREATE TABLE IF NOT EXISTS message_snapshot
 (
     author      text,
