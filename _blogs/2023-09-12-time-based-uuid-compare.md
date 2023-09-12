@@ -33,7 +33,6 @@ public class UUIDUtil {
 
     private static final long NUM_HUNDRED_NANOS_FROM_UUID_EPOCH_TO_UNIX_EPOCH = 122_192_928_000_000_000L;
 
-
     /**
      * Extracts the Instant (with the maximum available 100ns precision) from the given time-based (version 1) UUID.
      *
