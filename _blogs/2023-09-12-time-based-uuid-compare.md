@@ -13,7 +13,7 @@ tag:
 
 A common mistake is to directly compare the UUID itself using ```UUID.compareTo```. Though it looks very natural and correct, it's actually the wrong way to compare time based (version 1) UUID.  
 
-In short, one (time based) UUID being greater (less) than the other DOES NOT necessary mean the represented timestamp being greater (less). This is due to the generation of time based UUID does not guarantee that the first half of the UUID bits represent the time.  
+In short, one (time based) UUID being greater (less) than the other DOES NOT necessary mean the represented timestamp being greater (less). This is due to the generation of time based UUID does not guarantee that the first half of the UUID bits representing the time.  
 
 If you are interested on how the generation works, read the following:  
 * [UUID Versions Explained](https://www.uuidtools.com/uuid-versions-explained)
@@ -51,7 +51,7 @@ public class UUIDUtil {
 
 ## How Cassandra handles it
 
-The good news is, Cassandra implements the right way to compare UUID. Say you have a schema where some field is a time based UUID, you can safely use it for ordering so that the data is order by some timestamp you defined.  
+The good news is, Cassandra implements the right way to compare UUID. Say you have a schema where some field is a time based UUID, you can safely use it for ordering so that the data is ordered by some timestamp you defined.  
 
 ```sql
 CREATE TABLE IF NOT EXISTS message_snapshot
