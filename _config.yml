@@ -68,13 +68,11 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
-
 # Analytics
 analytics:
   provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "UA-121782172-1"
-
 
 # Site Author
 author:
@@ -180,6 +178,9 @@ collections:
   photography:
     output: true
     permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -191,9 +192,8 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
-      related: false
   # _pages
   - scope:
       path: ""
@@ -210,6 +210,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      read_time: true
   # _publications
   - scope:
       path: ""
@@ -218,7 +219,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
+      comments: false
   # _photography
   - scope:
       path: ""
@@ -226,7 +227,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: false
+      share: true
       comment: false
   # _talks
   - scope:
@@ -236,12 +237,21 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: false
+      read_time: true
 
 # Sass/SCSS
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
 
 # Outputting
 permalink: /:categories/:title/
@@ -291,7 +301,6 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
-
 
 # HTML Compression
 # - http://jch.penibelst.de/
