@@ -14,8 +14,8 @@ This summer, I have an opportunity of a 3-month internship in [Multimedia Resear
 
 # Projects
 
-* Vehicle Counting Using Double Virtual Lines. [Code](https://github.com/SaoYan/VehicleCounting); [Summary Report](https://saoyan.github.io/posts/2017-07-07-vehicle-counting)
-* Background Subtraction Using Deep Learning. [Code](https://github.com/SaoYan/bgsCNN); [Summary Report I](https://saoyan.github.io/posts/2017-07-27-dl-background-subtraction-1); [Summary Report II](https://saoyan.github.io/posts/2017-08-07-dl-background-subtraction-2); [Summary Report III](https://saoyan.github.io/posts/2017-11-18-dl-background-subtraction-3)
+* Vehicle Counting Using Double Virtual Lines. [Code](https://github.com/SaoYan/VehicleCounting); [Summary Report](https://saoyan.github.io/projects/2017-07-07-vehicle-counting)
+* Background Subtraction Using Deep Learning. [Code](https://github.com/SaoYan/bgsCNN); [Summary Report I](https://saoyan.github.io/projects/2017-07-27-dl-background-subtraction-1); [Summary Report II](https://saoyan.github.io/projects/2017-08-07-dl-background-subtraction-2); [Summary Report III](https://saoyan.github.io/projects/2017-11-18-dl-background-subtraction-3)
 
 # Poster Session
 

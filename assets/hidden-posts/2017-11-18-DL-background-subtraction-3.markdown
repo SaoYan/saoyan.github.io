@@ -2,7 +2,8 @@
 title: "Background Subtraction Using Deep Learning -- Part III"
 date: 2017-11-18
 author: yiqi
-permalink: /posts/2017-11-18-dl-background-subtraction-3
+collection: projects
+permalink: /projects/2017-11-18-dl-background-subtraction-3
 tag:
 - Deep Learning
 - Tensorflow
@@ -11,8 +12,8 @@ tag:
 If you've seen the [DL Background Subtraction project on my Github](https://github.com/SaoYan/bgsCNN), you may find that there are five different models. The summary reports finished during my internship didn't include model IV and V. Since I've been contacted by several people asking about these two models, I decide to briefly describe them.  
 
 Forget about model I~III?  
-[summary report I](https://saoyan.github.io/posts/2017-07-27-dl-background-subtraction-1)  
-[summary report II](https://saoyan.github.io/posts/2017-08-07-dl-background-subtraction-2)
+[summary report I](https://saoyan.github.io/projects/2017-07-27-dl-background-subtraction-1)  
+[summary report II](https://saoyan.github.io/projects/2017-08-07-dl-background-subtraction-2)
 
 
 <h1>Contents</h1>

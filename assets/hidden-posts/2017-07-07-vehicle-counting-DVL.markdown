@@ -2,7 +2,8 @@
 title: "Vehicle Counting Using Double Virtual Lines"
 date: 2017-07-07
 author: yiqi
-permalink: /posts/2017-07-07-vehicle-counting
+collection: projects
+permalink: /projects/2017-07-07-vehicle-counting
 tag:
 - OpenCV
 - Mitacs Internship 2017
