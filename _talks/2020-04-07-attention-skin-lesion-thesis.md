@@ -2,7 +2,7 @@
 title: "Attention-based Skin Lesion Recognition"
 collection: talks
 type: "Talk"
-permalink: /talks/2020/04/07
+permalink: /talks/2020-04-07-attention-skin-lesion-thesis
 venue: "School of Computing Science, Simon Fraser University"
 date: 2020-04-07
 location: "Burnaby, BC, Canada"

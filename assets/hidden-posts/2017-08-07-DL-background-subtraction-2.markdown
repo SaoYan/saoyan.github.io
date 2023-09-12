@@ -11,7 +11,7 @@ tag:
 
 ***This post summarizes my work during week 5-6 of my summer internship.***  
 
-I finished the training of the model mentioned in the [last report](https://saoyan.github.io/posts/2017/07/27). The result was disappointing. Then I modified the model and got a fairly good result. For convenience, I will mention the model mentioned in the last report as Model I, and the modified model as Model II and Model III.
+I finished the training of the model mentioned in the [last report](https://saoyan.github.io/posts/2017-07-27-dl-background-subtraction-1). The result was disappointing. Then I modified the model and got a fairly good result. For convenience, I will mention the model mentioned in the last report as Model I, and the modified model as Model II and Model III.
 
 All the training curves and visualization images are created with [Tensorboard Toolkit](https://github.com/tensorflow/tensorboard) ([1]).
 

@@ -2,7 +2,7 @@
 title: "Streaming Segment Parser"
 collection: talks
 type: "Talk"
-permalink: /talks/2019/10/14
+permalink: /talks/2019-10-14-streaming-segment-parser
 venue: "Amazon Prime Video Internship Presentation"
 date: 2019-10-14
 location: "Seattle, WA, US"

@@ -17,7 +17,7 @@ You can get a [PDF version of this post from here](/files/Mitacs_Internship_Summ
 
 The source code of *DL Background Subtraction* is [available on my Github](https://github.com/SaoYan/VehicleCounting_DL).
 
-Before reading this post, you may want to [review my work in week 1-2.](https://saoyan.github.io/posts/2017/07/07).
+Before reading this post, you may want to [review my work in week 1-2.](https://saoyan.github.io/posts/2017-07-07-vehicle-counting).
 
 <h1>Contents</h1>
 
@@ -34,7 +34,7 @@ Before reading this post, you may want to [review my work in week 1-2.](https://
 
 <h1 id="Part1">Part I A brief recall</h1>
 
-In the [last report](https://saoyan.github.io/posts/2017/07/07), I proposed a framework of vehicle counting based on deep learning (figure 1.1).
+In the [last report](https://saoyan.github.io/posts/2017-07-07-vehicle-counting), I proposed a framework of vehicle counting based on deep learning (figure 1.1).
 
 <center>
 <img src="/images/bgsCNN_1/figure_1_1.png"  alt="figure_1_1"/><br>

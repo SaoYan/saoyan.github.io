@@ -2,7 +2,7 @@
 title: "Single Image Spectral Super-resolution"
 collection: talks
 type: "Talk"
-permalink: /talks/2018/06/07/
+permalink: /talks/2018-06-07-super-spectral
 venue: "School of Computer Science, Northwestern Polytechnical University"
 date: 2018-06-07
 location: "Xi'an, Shaanxi, China"
