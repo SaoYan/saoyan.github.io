@@ -1,9 +1,9 @@
 ---
 title: "PyTorch Practice - General Code Template"
 author: yiqi
-permalink: /blog/2018-11-27-pytorch-practice
+permalink: /blogs/2018-11-27-pytorch-practice
 date: 2018-11-27
-collection: blog
+collection: blogs
 tag:
 - Deep Learning
 - PyTorch

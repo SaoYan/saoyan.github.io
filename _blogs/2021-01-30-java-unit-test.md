@@ -1,9 +1,9 @@
 ---
 title: "Writing unit-testable code"
 author: yiqi
-permalink: /blog/2021-01-30-java-unit-test
+permalink: /blogs/2021-01-30-java-unit-test
 date: 2021-01-30
-collection: blog
+collection: blogs
 tag:
 - Programming
 - Java

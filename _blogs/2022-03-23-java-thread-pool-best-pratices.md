@@ -1,9 +1,9 @@
 ---
 title: "Java thread pool best practices"
 author: yiqi
-permalink: /blog/2022-03-23-java-thread-pool
+permalink: /blogs/2022-03-23-java-thread-pool
 date: 2022-03-23
-collection: blog
+collection: blogs
 tag:
 - Programming
 - Java

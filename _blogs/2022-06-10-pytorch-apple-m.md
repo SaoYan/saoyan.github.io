@@ -1,9 +1,9 @@
 ---
 title: "I wanted to try PyTorch on M1 Max, but I couldn't..."
 author: yiqi
-permalink: /blog/2022-06-10-pytorch-apple-m
+permalink: /blogs/2022-06-10-pytorch-apple-m
 date: 2022-06-10
-collection: blog
+collection: blogs
 tag:
 - Deep Learning
 - PyTorch

@@ -1,9 +1,9 @@
 ---
 title: "How to compare time based UUID in Java"
 author: yiqi
-permalink: /blog/2023-09-12-time-based-uuid-compare
+permalink: /blogs/2023-09-12-time-based-uuid-compare
 date: 2023-09-12
-collection: blog
+collection: blogs
 tag:
 - Programming
 - Java
