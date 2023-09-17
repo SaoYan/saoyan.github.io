@@ -45,3 +45,5 @@ Off work. I play PS games, travel and do photography.
 <a href="https://wakatime.com">
   <img src="https://wakatime.com/share/@saoyan/ee4521be-0313-4828-a0d2-b4956051691b.png" />
 </a>
+
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=127391&w=300&t=m&d=feb5YVF43B9oHziOnIH-OKj01KbS3FbMQ2e0UcCSYqo&co=1c1c1c&cmo=3acc3a&cmn=ff5353&ct=cdd4d9'></script>
