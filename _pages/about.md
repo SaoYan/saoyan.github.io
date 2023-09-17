@@ -46,4 +46,7 @@ Off work. I play PS games, travel and do photography.
   <img src="https://wakatime.com/share/@saoyan/ee4521be-0313-4828-a0d2-b4956051691b.png" />
 </a>
 
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=127391&w=300&t=m&d=feb5YVF43B9oHziOnIH-OKj01KbS3FbMQ2e0UcCSYqo&co=1c1c1c&cmo=3acc3a&cmn=ff5353&ct=cdd4d9'></script>
+<!-- <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=54b6e0&w=a&t=m&d=feb5YVF43B9oHziOnIH-OKj01KbS3FbMQ2e0UcCSYqo&co=121212'></script> -->
+<a href='https://mapmyvisitors.com/web/1bvdq'  title='Visit tracker'>
+  <img style="width: 100%; object-fit: contain" src='https://mapmyvisitors.com/map.png?cl=54b6e0&w=300&t=m&d=feb5YVF43B9oHziOnIH-OKj01KbS3FbMQ2e0UcCSYqo&co=121212'/>
+</a>
