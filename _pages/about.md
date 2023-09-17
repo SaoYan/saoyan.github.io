@@ -10,15 +10,6 @@ redirect_from:
 
 # Aha! You found me! 👋
 
----
-## News
-
-I recently joined an early stage startup [CodeMaker AI](https://codemaker.ai). Check our recent releases:  
-
-- [Github Action](https://github.com/marketplace/actions/codemaker-action) allows you to integrate code generation directly into Github's CI/CD workflow.
-
----
-
 <br>
 I'm a software engineer at Apple Media Product. If you stream contents in TV app on your Apple devices, I'm probably behind them 🤪.  
 
@@ -50,4 +41,4 @@ Off work. I play PS games, travel and do photography.
 
 <!-- <img src="/images/about.jpeg" alt="about me"/> -->
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@saoyan/41f919c5-88cf-4eec-b6ba-3587b71bbd1a.png" /></a>
+<figure><embed src="https://wakatime.com/share/@saoyan/299e58aa-1bbd-4618-8f7f-cafdacd3e0f1.svg"></embed></figure>
