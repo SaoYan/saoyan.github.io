@@ -114,6 +114,9 @@ Contributed Open Source
     <th class="tg-0lax">
       <img src="https://github-readme-stats-saoyan.vercel.app/api/pin/?username=codemakerai&repo=codemaker-action&theme=github_dark&show_owner=true" alt="codemaker-action">
     </th>
+    <th class="tg-0lax">
+      <img src="https://github-readme-stats-saoyan.vercel.app/api/pin/?username=codemakerai&repo=codemaker-pull-request-action&theme=github_dark&show_owner=true" alt="codemaker-pull-request-action">
+    </th>
   </tr>
 </tbody>
 </table>
