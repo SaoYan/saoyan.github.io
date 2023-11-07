@@ -21,7 +21,6 @@ Education
 
 Work Experiences
 ======
-* Aug 2023 - Present: Co-Founder, [CodeMaker AI](https://codemaker.ai)
 * May 2022 - Present: Software Development Engineer, Apple Media Product (Video)
 * Aug 2020 - April 2022: Software Development Engineer, AWS Kinesis Data Streams
 
