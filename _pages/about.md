@@ -36,7 +36,7 @@ Off work. I play PS games, travel and do photography.
 </p>
 
 <a href="https://www.exophase.com/user/iPlayPS/">
-  <img style="height: 100%; width: 100%; object-fit: contain" src="https://card.exophase.com/2/0/179874.png?1670624245">
+  <img style="height: 100%; width: 80%; object-fit: contain" src="https://card.exophase.com/2/0/179874.png?1670624245">
 </a>
 
 <!-- <img src="/images/about.jpeg" alt="about me"/> -->
