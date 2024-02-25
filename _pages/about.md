@@ -41,9 +41,6 @@ Off work. I play PS games, travel and do photography.
 
 <!-- <img src="/images/about.jpeg" alt="about me"/> -->
 
-<!-- <embed style="width: 100%; object-fit: contain" src="https://wakatime.com/share/@saoyan/299e58aa-1bbd-4618-8f7f-cafdacd3e0f1.svg"> -->
-<a href="https://wakatime.com">
-  <img src="https://wakatime.com/share/@saoyan/ee4521be-0313-4828-a0d2-b4956051691b.png" />
-</a>
+<figure><embed src="https://wakatime.com/share/@saoyan/29427bc0-0bf7-491c-9245-1158897bdf30.svg"></embed></figure>
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=29cfe6&w=500&t=m&d=feb5YVF43B9oHziOnIH-OKj01KbS3FbMQ2e0UcCSYqo&co=0d1116'></script>
