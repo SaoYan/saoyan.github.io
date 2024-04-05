@@ -13,7 +13,7 @@ redirect_from:
 <br>
 I'm a software engineer at Apple Media Product. If you stream contents in TV app on your Apple devices, I'm probably behind them 🤪.  
 
-Off work. I play PS games, travel and do photography.  
+Off work. I play PS games, travel and do photography. [Check my photography collections](https://saoyan.github.io/photography/)   
 
 <p>
   <img src="https://img.shields.io/badge/%20-Simon%20Fraser%20University-red" />
