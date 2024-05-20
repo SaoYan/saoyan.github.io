@@ -13,17 +13,22 @@ tag:
 
 This might feels too simple to talk about. But I do saw people (including myself), getting confused.  
 
-For example, I remember one time I was adding one simple API call in a FeignClient interface where Spring annotation ```@GetMapping``` was used. I copy-pasted it without thinking too much. I also wanted to added a header before the third-party service I was calling provided 2 content types ```application/x-protobuf``` and ```application/json``` (default), and I added ```@Headers("Accept: application/json")```.  
+For example, I remember one time I was adding one simple API call in a FeignClient interface where Spring annotation ```@GetMapping``` was used. I copy-pasted it without thinking too much.  
 
-Well, you probably already know what happened... I kept getting ```InvalidProtocolBufferException``` and spent like thounsands of years before realizing the consumed content type was JSON.  
+The third-party service I was calling provided 2 content types ```application/x-protobuf``` and ```application/json``` (default). I wated to use protobuf, so I added ```@Headers("Accept: application/x-protobuf")```, and did protobuf deserialization.  
+
+Well, you probably already know what happened... I kept getting ```InvalidProtocolBufferException``` and spent like thounsands of years before realizing the consumed content type was JSON. ```@Headers("Accept: application/x-protobuf")``` was not recognized.  
+
+If you don't get what was wrong, keep reading.  
 
 # To be more specific  
 
-When it comes to write REST APIs in Java, you could use either Jax-RS or Spring. And they do NOT recognizes each other's annotations before they are different specs.  
+When it comes to writing REST APIs in Java, you could use either Jax-RS or Spring. And they do NOT recognizes each other's annotations.  
 
-JAX-RS is a set of specifications for building REST services. Its best-known reference implementations are RESTEasy and Jersey. As for Spring, a bet you already know what it is if you click into this post 😉. Just remember Spring does NOT implement JAX-RS spec.  
+JAX-RS is a set of specifications for building REST services. Its best-known reference implementations are RESTEasy and Jersey. As for Spring, I bet you already know what it is if you click into this post 😉. Just remember Spring does NOT implement JAX-RS spec.  
 
-When it comes to implementing REST APIs or its client, the basic components we care about are:
+On implementing REST API or its client, the basic components we care about are:  
+
 1. Method: GET, PUT, POST, etc.
 2. Path
 3. Path and query parameters
@@ -32,7 +37,6 @@ When it comes to implementing REST APIs or its client, the basic components we c
 Jax-RS and Spring defines different annotations and interfaces, as shown below  
 
 |                                 | Jax-RS                              | Spring                                                      |
-| ------------------------------- | ----------------------------------- | ----------------------------------------------------------- |
 | REST Method                     | ```@GET```, ```@POST```, ```@PUT``` | ```@GetMapping```, ```@PostMapping```, ```@PutMapping```    |
 | Path                            | ```@Path```                         | ```@RequestMapping```, ```@XXXMapping(value = "xxxx")```    |
 | Path parameter                  | ```@PathParam```                    | ```@PathVariable```                                         |
