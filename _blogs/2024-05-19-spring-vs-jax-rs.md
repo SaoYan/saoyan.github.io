@@ -11,7 +11,7 @@ tag:
 
 # Overview  
 
-This might feels too simple to talk about. But I do saw people (including myself), getting confused.  
+This might feels too simple to talk about. But I did see people (including myself), getting confused.  
 
 For example, I remember one time I was adding one simple API call in a FeignClient interface where Spring annotation ```@GetMapping``` was used. I copy-pasted it without thinking too much.  
 
