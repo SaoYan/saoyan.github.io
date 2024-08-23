@@ -19,8 +19,9 @@ Education
 
 Work Experiences
 ======
-* May 2022 - Present: Software Development Engineer, Apple Media Product (Video)
-* Aug 2020 - April 2022: Software Development Engineer, AWS Kinesis Data Streams
+* Aug 2024 - Present: Senior Software Engineer, Uber Reserve
+* May 2022 - July 2024: Software Engineer, Apple Media Product (Video)
+* Aug 2020 - April 2022: Software Engineer, AWS Kinesis Data Streams
 
 Professional Experiences
 ======
