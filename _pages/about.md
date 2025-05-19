@@ -11,7 +11,7 @@ redirect_from:
 # Aha! You found me! 👋
 
 <br>
-I'm a software engineer at Apple Media Product. If you stream contents in TV app on your Apple devices, I'm probably behind them 🤪.  
+I'm a software engineer at Uber Reserve.  
 
 Off work. I play PS games, travel and do photography. [Check my photography collections](https://saoyan.github.io/photography/)   
 
